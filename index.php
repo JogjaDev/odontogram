@@ -74,20 +74,20 @@ while($hasil = mysql_fetch_array($query)){
                                 <tbody>
                                     <!-- image begin -->
                                     <tr>
-                                        <td>17 <img src="./images/detail.jpg" alt="Detail Gigi 17" <?php echo $gigi->cek_gigi($_GET['pasien'], '17'); ?>/></td>
-                                        <td>16 <img src="./images/detail.jpg" alt="Detail Gigi 16" <?php echo $gigi->cek_gigi($_GET['pasien'], '16'); ?>/></td>
-                                        <td>15 <img src="./images/detail.jpg" alt="Detail Gigi 15" <?php echo $gigi->cek_gigi($_GET['pasien'], '15'); ?>/></td>
-                                        <td>14 <img src="./images/detail.jpg" alt="Detail Gigi 14" <?php echo $gigi->cek_gigi($_GET['pasien'], '14'); ?>/></td>
-                                        <td>13 <img src="./images/detail.jpg" alt="Detail Gigi 13" <?php echo $gigi->cek_gigi($_GET['pasien'], '13'); ?>/></td>
-                                        <td>12 <img src="./images/detail.jpg" alt="Detail Gigi 12" <?php echo $gigi->cek_gigi($_GET['pasien'], '12'); ?>/></td>
-                                        <td>11 <img src="./images/detail.jpg" alt="Detail Gigi 11" <?php echo $gigi->cek_gigi($_GET['pasien'], '11'); ?>/></td>
-                                        <td>21 <img src="./images/detail.jpg" alt="Detail Gigi 21" <?php echo $gigi->cek_gigi($_GET['pasien'], '21'); ?>/></td>
-                                        <td>22 <img src="./images/detail.jpg" alt="Detail Gigi 22" <?php echo $gigi->cek_gigi($_GET['pasien'], '22'); ?>/></td>
-                                        <td>23 <img src="./images/detail.jpg" alt="Detail Gigi 23" <?php echo $gigi->cek_gigi($_GET['pasien'], '23'); ?>/></td>
-                                        <td>24 <img src="./images/detail.jpg" alt="Detail Gigi 24" <?php echo $gigi->cek_gigi($_GET['pasien'], '24'); ?>/></td>
-                                        <td>25 <img src="./images/detail.jpg" alt="Detail Gigi 25" <?php echo $gigi->cek_gigi($_GET['pasien'], '25'); ?>/></td>
-                                        <td>26 <img src="./images/detail.jpg" alt="Detail Gigi 26" <?php echo $gigi->cek_gigi($_GET['pasien'], '26'); ?>/></td>
-                                        <td>27 <img src="./images/detail.jpg" alt="Detail Gigi 27" <?php echo $gigi->cek_gigi($_GET['pasien'], '27'); ?>/></td>
+                                        <td>17 <img src="./images/details.png" alt="Detail Gigi 17" <?php echo $gigi->cek_gigi($_GET['pasien'], '17'); ?>/></td>
+                                        <td>16 <img src="./images/details.png" alt="Detail Gigi 16" <?php echo $gigi->cek_gigi($_GET['pasien'], '16'); ?>/></td>
+                                        <td>15 <img src="./images/details.png" alt="Detail Gigi 15" <?php echo $gigi->cek_gigi($_GET['pasien'], '15'); ?>/></td>
+                                        <td>14 <img src="./images/details.png" alt="Detail Gigi 14" <?php echo $gigi->cek_gigi($_GET['pasien'], '14'); ?>/></td>
+                                        <td>13 <img src="./images/details.png" alt="Detail Gigi 13" <?php echo $gigi->cek_gigi($_GET['pasien'], '13'); ?>/></td>
+                                        <td>12 <img src="./images/details.png" alt="Detail Gigi 12" <?php echo $gigi->cek_gigi($_GET['pasien'], '12'); ?>/></td>
+                                        <td>11 <img src="./images/details.png" alt="Detail Gigi 11" <?php echo $gigi->cek_gigi($_GET['pasien'], '11'); ?>/></td>
+                                        <td>21 <img src="./images/details.png" alt="Detail Gigi 21" <?php echo $gigi->cek_gigi($_GET['pasien'], '21'); ?>/></td>
+                                        <td>22 <img src="./images/details.png" alt="Detail Gigi 22" <?php echo $gigi->cek_gigi($_GET['pasien'], '22'); ?>/></td>
+                                        <td>23 <img src="./images/details.png" alt="Detail Gigi 23" <?php echo $gigi->cek_gigi($_GET['pasien'], '23'); ?>/></td>
+                                        <td>24 <img src="./images/details.png" alt="Detail Gigi 24" <?php echo $gigi->cek_gigi($_GET['pasien'], '24'); ?>/></td>
+                                        <td>25 <img src="./images/details.png" alt="Detail Gigi 25" <?php echo $gigi->cek_gigi($_GET['pasien'], '25'); ?>/></td>
+                                        <td>26 <img src="./images/details.png" alt="Detail Gigi 26" <?php echo $gigi->cek_gigi($_GET['pasien'], '26'); ?>/></td>
+                                        <td>27 <img src="./images/details.png" alt="Detail Gigi 27" <?php echo $gigi->cek_gigi($_GET['pasien'], '27'); ?>/></td>
                                     </tr>
                                     <!-- image end -->
                                     <tr>
@@ -110,16 +110,16 @@ while($hasil = mysql_fetch_array($query)){
                                     <tr>
                                         <td>&nbsp;</td>
                                         <td>&nbsp;</td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 55" <?php echo $gigi->cek_gigi($_GET['pasien'], '55'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 54" <?php echo $gigi->cek_gigi($_GET['pasien'], '54'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 53" <?php echo $gigi->cek_gigi($_GET['pasien'], '53'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 52" <?php echo $gigi->cek_gigi($_GET['pasien'], '52'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 51" <?php echo $gigi->cek_gigi($_GET['pasien'], '51'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 61" <?php echo $gigi->cek_gigi($_GET['pasien'], '61'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 62" <?php echo $gigi->cek_gigi($_GET['pasien'], '62'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 63" <?php echo $gigi->cek_gigi($_GET['pasien'], '63'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 64" <?php echo $gigi->cek_gigi($_GET['pasien'], '64'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 65" <?php echo $gigi->cek_gigi($_GET['pasien'], '65'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 55" <?php echo $gigi->cek_gigi($_GET['pasien'], '55'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 54" <?php echo $gigi->cek_gigi($_GET['pasien'], '54'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 53" <?php echo $gigi->cek_gigi($_GET['pasien'], '53'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 52" <?php echo $gigi->cek_gigi($_GET['pasien'], '52'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 51" <?php echo $gigi->cek_gigi($_GET['pasien'], '51'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 61" <?php echo $gigi->cek_gigi($_GET['pasien'], '61'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 62" <?php echo $gigi->cek_gigi($_GET['pasien'], '62'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 63" <?php echo $gigi->cek_gigi($_GET['pasien'], '63'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 64" <?php echo $gigi->cek_gigi($_GET['pasien'], '64'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 65" <?php echo $gigi->cek_gigi($_GET['pasien'], '65'); ?>/></td>
                                         <td>&nbsp;</td>
                                         <td>&nbsp;</td>
                                     </tr>
@@ -144,16 +144,16 @@ while($hasil = mysql_fetch_array($query)){
                                     <tr>
                                         <td>&nbsp;</td>
                                         <td>&nbsp;</td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 85" <?php echo $gigi->cek_gigi($_GET['pasien'], '85'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 84" <?php echo $gigi->cek_gigi($_GET['pasien'], '84'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 83" <?php echo $gigi->cek_gigi($_GET['pasien'], '83'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 82" <?php echo $gigi->cek_gigi($_GET['pasien'], '82'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 81" <?php echo $gigi->cek_gigi($_GET['pasien'], '81'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 71" <?php echo $gigi->cek_gigi($_GET['pasien'], '71'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 72" <?php echo $gigi->cek_gigi($_GET['pasien'], '72'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 73" <?php echo $gigi->cek_gigi($_GET['pasien'], '73'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 74" <?php echo $gigi->cek_gigi($_GET['pasien'], '74'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 75" <?php echo $gigi->cek_gigi($_GET['pasien'], '75'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 85" <?php echo $gigi->cek_gigi($_GET['pasien'], '85'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 84" <?php echo $gigi->cek_gigi($_GET['pasien'], '84'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 83" <?php echo $gigi->cek_gigi($_GET['pasien'], '83'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 82" <?php echo $gigi->cek_gigi($_GET['pasien'], '82'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 81" <?php echo $gigi->cek_gigi($_GET['pasien'], '81'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 71" <?php echo $gigi->cek_gigi($_GET['pasien'], '71'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 72" <?php echo $gigi->cek_gigi($_GET['pasien'], '72'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 73" <?php echo $gigi->cek_gigi($_GET['pasien'], '73'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 74" <?php echo $gigi->cek_gigi($_GET['pasien'], '74'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 75" <?php echo $gigi->cek_gigi($_GET['pasien'], '75'); ?>/></td>
                                         <td>&nbsp;</td>
                                         <td>&nbsp;</td>
                                     </tr>
@@ -176,20 +176,20 @@ while($hasil = mysql_fetch_array($query)){
                                     </tr>
                                     <!-- image begin -->
                                     <tr>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 47" <?php echo $gigi->cek_gigi($_GET['pasien'], '47'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 46" <?php echo $gigi->cek_gigi($_GET['pasien'], '46'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 45" <?php echo $gigi->cek_gigi($_GET['pasien'], '45'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 44" <?php echo $gigi->cek_gigi($_GET['pasien'], '44'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 43" <?php echo $gigi->cek_gigi($_GET['pasien'], '43'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 42" <?php echo $gigi->cek_gigi($_GET['pasien'], '42'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 41" <?php echo $gigi->cek_gigi($_GET['pasien'], '41'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 31" <?php echo $gigi->cek_gigi($_GET['pasien'], '31'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 32" <?php echo $gigi->cek_gigi($_GET['pasien'], '32'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 33" <?php echo $gigi->cek_gigi($_GET['pasien'], '33'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 34" <?php echo $gigi->cek_gigi($_GET['pasien'], '34'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 35" <?php echo $gigi->cek_gigi($_GET['pasien'], '35'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 36" <?php echo $gigi->cek_gigi($_GET['pasien'], '36'); ?>/></td>
-                                        <td><img src="./images/detail.jpg" alt="Detail Gigi 37" <?php echo $gigi->cek_gigi($_GET['pasien'], '37'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 47" <?php echo $gigi->cek_gigi($_GET['pasien'], '47'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 46" <?php echo $gigi->cek_gigi($_GET['pasien'], '46'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 45" <?php echo $gigi->cek_gigi($_GET['pasien'], '45'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 44" <?php echo $gigi->cek_gigi($_GET['pasien'], '44'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 43" <?php echo $gigi->cek_gigi($_GET['pasien'], '43'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 42" <?php echo $gigi->cek_gigi($_GET['pasien'], '42'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 41" <?php echo $gigi->cek_gigi($_GET['pasien'], '41'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 31" <?php echo $gigi->cek_gigi($_GET['pasien'], '31'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 32" <?php echo $gigi->cek_gigi($_GET['pasien'], '32'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 33" <?php echo $gigi->cek_gigi($_GET['pasien'], '33'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 34" <?php echo $gigi->cek_gigi($_GET['pasien'], '34'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 35" <?php echo $gigi->cek_gigi($_GET['pasien'], '35'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 36" <?php echo $gigi->cek_gigi($_GET['pasien'], '36'); ?>/></td>
+                                        <td><img src="./images/details.png" alt="Detail Gigi 37" <?php echo $gigi->cek_gigi($_GET['pasien'], '37'); ?>/></td>
                                     </tr>
                                     <!-- image end -->
                                 </tbody>

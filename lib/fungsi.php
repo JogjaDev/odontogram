@@ -14,12 +14,9 @@ class fungsi{
         return $var;
     }
 
-    function get_class($rusak){
-        $var = "";
-        if($rusak){
-            $var = "";
-        }
-        return $var;
+    function base_url(){
+        $url = "http://localhost/odontogram/";
+        return $url;
     }
 
     function cek_gigi($pasien ,$gigi){

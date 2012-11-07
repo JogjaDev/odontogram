@@ -145,5 +145,10 @@
 @media print {.main-navigation {display:inline /*Fix IE floating margin bug*/; float:left; width:199px; border-right:solid 1px rgb(200,200,200); border-bottom:solid 1px rgb(200,200,200); background-color:rgb(240,240,240); overflow:visible !important /*Firefox*/; overflow:hidden /*IE*/;}}
 @media print {.footer {clear:both; width:900px; height:3.7em; padding:1.1em 0 0; background:rgb(240,240,240); font-size:1.0em; overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/;}}
 
-#forms .erupsi{z-index: 99;background-color: #000}
+#forms .erupsi{z-index: 99;background: url(../images/erupsi.png)}
+#forms .cabut{z-index: 99;background: url(../images/cabut.png)}
+#forms .akar{z-index: 99;background: url(../images/akar.png)}
+#forms .tumpatan{z-index: 99;background: url(../images/tumpatan.png)}
+#forms .karies{z-index: 99;background: url(../images/karies.png)}
+#forms .goyah{z-index: 99;background: url(../images/goyah.png)}
 img.erupsi{z-index: -1;background-color: #000;}
